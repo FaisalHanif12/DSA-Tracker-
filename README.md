@@ -25,3 +25,12 @@ The interface is clean, intuitive, and easy to navigate, making it perfect for b
 7. Responsive Design:
 The website is fully responsive, ensuring it works seamlessly on all devices, whether it’s a desktop, tablet, or mobile.
 
+## Screenshots
+
+### Home Page
+![DSA-Home](./DSA-Images/DSA-Home.png)
+
+### Question View
+![Question](./DSA-Images/Question.png)
+
+
