@@ -34,7 +34,7 @@ if (op!=null)
       <img className='w-6 h-6  mr-3 mt-0 align-top' src="https://pluspng.com/img-png/react-logo-png-js-logo-react-react-js-icon-512x512.png"></img>
       <div className=' '>
       <h2 className='text-xl text-slate-600 font-bold  mt-2'>{name}</h2>
-      <h4 className='text-bg font-bold text-zinc-700 mt-2 mb-1'>Total Questions : {qno}</h4>
+      <h4 className='text-bg font-bold text-zinc-700 mt-2 mb-1'>Total Questions: {qno}</h4>
 
 {
  ans==0 ?  <h6 className=' text-orange-800 italic mt-2 font-sans '>Not Yet Started</h6> :   
