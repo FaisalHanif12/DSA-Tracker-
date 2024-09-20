@@ -19,7 +19,7 @@ function Navbar({mode,setmode}) {
        {/* <Router>
        <Routes>
         <Route> */}
-               <Link className='pl-2 font-large' to="/"  >Faisal Dsa tracker Website</Link>
+               <Link className='pl-2 font-large' to="/"  >Faisal DSA-Tracker Website</Link>
        {/* </Route>
        </Routes>
        </Router> */}
