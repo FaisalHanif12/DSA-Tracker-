@@ -1,4 +1,4 @@
-DSA-Tracker Website
+**DSA-Tracker Website**
 The DSA-Tracker is a website designed for individuals to practice Data Structures and Algorithms (DSA) in a well-organized and comprehensive manner. This platform helps users track their DSA practice and progress across various topics.
 
 Key Features
