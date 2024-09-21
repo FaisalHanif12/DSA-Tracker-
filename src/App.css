@@ -1,10 +1,16 @@
 .App {
   text-align: center;
+  font-family: 'Arial', sans-serif; /* Improved typography */
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  transition: transform 0.2s ease-in-out; /* Smooth transition for hover effect */
+}
+
+.App-logo:hover {
+  transform: scale(1.1); /* Slightly enlarge logo on hover */
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -22,10 +28,18 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* Add shadow for depth */
 }
 
 .App-link {
   color: #61dafb;
+  text-decoration: none; /* Removes underline from links */
+  transition: color 0.3s ease-in-out; /* Smooth color transition on hover */
+}
+
+.App-link:hover {
+  color: #ffffff; /* Changes link color on hover */
+  text-decoration: underline; /* Adds underline on hover for emphasis */
 }
 
 @keyframes App-logo-spin {
